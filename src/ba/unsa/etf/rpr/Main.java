@@ -9,6 +9,7 @@ public class Main {
         s.sljedeci();
         s.ispisi();
         s.pomjeriZa(-48);
+        s.ispisi();
         s.postavi(0,0,0);
         s.ispisi();
     }
